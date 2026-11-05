@@ -33,11 +33,11 @@ Los enlaces de Google Maps y TikTok están en `index.html` (buscá `maps.app.goo
 
 ## Dirección publicada
 
-https://luciatanoni25-eng.github.io/ypf-bombal-links/
+https://ypfbombal.github.io/ypf-bombal-links/
 
 ## Cómo actualizar la página publicada (sin instalar nada)
 
-1. Entrá a https://github.com/luciatanoni25-eng/ypf-bombal-links con tu cuenta.
+1. Entrá a https://github.com/ypfbombal/ypf-bombal-links con tu cuenta.
 2. Abrí el archivo que quieras cambiar (por ejemplo `assets/js/resenas.js`).
 3. Tocá el ícono del lápiz (✏️ "Edit this file").
 4. Hacé el cambio y tocá el botón verde **Commit changes…** y otra vez **Commit changes**.
